@@ -11,6 +11,7 @@ namespace HomeWork
         static void Main(string[] args)
         {
             Console.WriteLine("Привет, Мир!");
+            Console.WriteLine("Тест");
         }
     }
 }
