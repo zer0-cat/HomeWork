@@ -10,8 +10,10 @@ namespace HomeWork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет, Мир!");
-            Console.WriteLine("Тест");
+            Console.Write("Введите ваше имя: ");
+            string name = Console.ReadLine();
+            Console.WriteLine("Привет, " + name + "!");
+       
         }
     }
 }
