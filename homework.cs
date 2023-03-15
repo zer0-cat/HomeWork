@@ -11,6 +11,7 @@ namespace HomeWork2
     {
         static void Main(string[] args)
         {
+
             Console.Write("Введите размерность массива: ");
             
             //переменная для хранения размера массива.
