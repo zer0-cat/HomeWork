@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+bin
+HomeWork #1
+HomeWork #2
+HomeWork #3
+HomeWork #4/bin
+HomeWork #4/obj
+HomeWork #4/Properties
+HomeWork #4/App.config
